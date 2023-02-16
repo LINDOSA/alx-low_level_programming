@@ -1,6 +1,6 @@
 include <stdio.h>
 /**
- * main - main block
+ * main - print a line of code using puts
 *return : 0
 */
 int main(void)
