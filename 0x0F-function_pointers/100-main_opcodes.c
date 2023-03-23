@@ -9,9 +9,9 @@
 	 * Return: Always 0 (Success)
 	 */
 
-void  main(int argc, char *argv[]);
 
-	{
+ main(int argc, char *argv[])
+{
 		int bytes, i;
 
 		char *arr;
@@ -47,4 +47,4 @@ void  main(int argc, char *argv[]);
 			printf("%02hhx ", arr[i]);
 		}
 		return (0);
-	}
+}
